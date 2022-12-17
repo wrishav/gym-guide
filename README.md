@@ -26,7 +26,6 @@ For hosting the website i used netlify and the live link is given below.
 
 # 2.Description
 
-I have a keen interset in fitness and i like working out but as i couldnt afford a trainer it was difficult for me to start as i didnt knew proper exercise and their forms so from that only i thought of creating an exercise library
 Tech stack used is reactjs,rapid api which is basically a website for collection of different apis  from which i have used exercise database and inline css and material ui for frontend and interactive user interface.
 The user can search a particular body part or exercises and for the corresponding keyword,the system would fetch the details of the exercise and user would see the exercises related to their requierements and their proper form.
 
